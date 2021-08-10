@@ -1,0 +1,10 @@
+body{
+    font-family: 'Otomanopee One', sans-serif;
+    background: url(/background-1.jpg) ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100vw;
+    background-color: black;
+    backdrop-filter: blur(2px);
+    
+}
